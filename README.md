@@ -36,7 +36,7 @@ LLMs understand page structure, extract via natural language, and output LLM-rea
 | [Firecrawl](https://github.com/firecrawl/firecrawl) | 189k | TypeScript | Websites → LLM-ready markdown or structured data via API. |
 | [browser-use](https://github.com/browser-use/browser-use) | 117k | Python | AI agents that control a browser to complete tasks autonomously. |
 | [Crawl4AI](https://github.com/unclecode/crawl4ai) | 85k | Python | LLM-friendly web crawler with structured extraction. |
-| [Docling](https://github.com/docling-project/docling) | 68k | Python | IBM — parse PDFs, DOCX into AI-ready output. |
+| [Docling](https://github.com/docling-project/docling) | 68k | Python | IBM, parse PDFs, DOCX into AI-ready output. |
 | [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 32k | Python | Graph pipelines + LLMs to extract data via plain English. |
 | [Stagehand](https://github.com/browserbase/stagehand) | 26k | TypeScript | Browser automation combining natural language with code precision. |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | 23k | Python | Browser workflows with computer vision + LLMs, no selectors needed. |
@@ -56,7 +56,7 @@ The cat-and-mouse game of modern scraping.
 | [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | 13k | Python | Browser automation with UC (Undetected Chrome) mode. |
 | [Camoufox](https://github.com/daijro/camoufox) | 12k | Python | Firefox-based browser automation project with fingerprint-management features. |
 | [curl_cffi](https://github.com/lexiforest/curl_cffi) | 7k | Python | HTTP client with browser TLS/JA3/HTTP2 fingerprint impersonation. |
-| [Nodriver](https://github.com/ultrafunkamsterdam/nodriver) | 5k | Python | Successor to undetected-chromedriver — direct CDP, no WebDriver. |
+| [Nodriver](https://github.com/ultrafunkamsterdam/nodriver) | 5k | Python | Successor to undetected-chromedriver, direct CDP, no WebDriver. |
 | [Botasaurus](https://github.com/omkarcloud/botasaurus) | 6k | Python | Scraping framework with anti-detection, parallelism, and caching. |
 | [Patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) | 5k | JavaScript | Undetected Playwright fork that passes bot detection. |
 
@@ -70,7 +70,7 @@ Connect LLM agents (Claude, GPT, etc.) directly to scraping tools.
 |--------|-------|-------------|
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | 38k | Browser automation via accessibility snapshots (by Microsoft). |
 | [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) | 8k | Web scraping and search in Claude/Cursor via Firecrawl API. |
-| [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) | 3k | Cloud browser control with Stagehand AI. |
+| [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) | 3k | Cloud browser control with Stagehand AI. Archived. ⚠️ |
 | [Bright Data MCP](https://github.com/brightdata/brightdata-mcp) | 3k | Web access with geo-unblocking and bot evasion. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
@@ -94,9 +94,9 @@ The foundation for dynamic/JS-heavy scraping.
 
 | Tool | Stars | Description |
 |------|-------|-------------|
-| [Scrapy](https://github.com/scrapy/scrapy) | 65k | Python scraping framework — middleware, pipelines, extensions. |
+| [Scrapy](https://github.com/scrapy/scrapy) | 65k | Python scraping framework, middleware, pipelines, extensions. |
 | [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) | 5k | Stateful browser-like interaction for simple scraping. |
-| [scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) | 1k | Playwright integration for Scrapy — JS rendering with full pipeline. |
+| [scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) | 1k | Playwright integration for Scrapy, JS rendering with full pipeline. |
 
 ### Go
 
@@ -116,7 +116,7 @@ The foundation for dynamic/JS-heavy scraping.
 
 ## 📡 HTTP Clients
 
-The network layer — making requests that look human.
+The network layer: making requests that look human.
 
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
@@ -145,7 +145,7 @@ The network layer — making requests that look human.
 
 ## 📝 Content & Text Extraction
 
-Pull clean text out of messy HTML — essential for LLM/RAG pipelines.
+Pull clean text out of messy HTML. Essential for LLM/RAG pipelines.
 
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
@@ -174,7 +174,7 @@ Pull clean text out of messy HTML — essential for LLM/RAG pipelines.
 | Tool | Stars | Description |
 |------|-------|-------------|
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 196k | YouTube and 1000+ sites (fork of youtube-dl). |
-| [lux](https://github.com/iawia002/lux) | 32k | Go video downloader — 40+ sites (formerly annie). |
+| [lux](https://github.com/iawia002/lux) | 32k | Go video downloader, 40+ sites (formerly annie). |
 | [spotdl](https://github.com/spotDL/spotify-downloader) | 26k | Spotify tracks/playlists with metadata and album art. |
 | [gallery-dl](https://github.com/mikf/gallery-dl) | 20k | Image galleries from 100+ sites (Pixiv, Twitter, Reddit). |
 
@@ -184,13 +184,13 @@ Pull clean text out of messy HTML — essential for LLM/RAG pipelines.
 
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
-| [Docling](https://github.com/docling-project/docling) | 68k | Python | IBM — PDFs, DOCX, PPTX into AI-ready output. |
+| [Docling](https://github.com/docling-project/docling) | 68k | Python | IBM, PDFs, DOCX, PPTX into AI-ready output. |
 | [Unstructured](https://github.com/Unstructured-IO/unstructured) | 16k | Python | ETL pipeline for documents → structured data for LLMs. |
 | [pdfplumber](https://github.com/jsvine/pdfplumber) | 11k | Python | Text, tables, and layout from PDFs with precision. |
 | [PyMuPDF](https://github.com/pymupdf/PyMuPDF) | 11k | Python | Fast PDF/XPS/EPUB extraction and rendering. |
 | [Tabula](https://github.com/tabulapdf/tabula) | 7k | Java | Data tables from PDFs. ⚠️ |
 | [pdfminer.six](https://github.com/pdfminer/pdfminer.six) | 7k | Python | PDF text extraction with layout analysis. |
-| [Camelot](https://github.com/camelot-dev/camelot) | 4k | Python | PDF table extraction — lattice and stream modes. |
+| [Camelot](https://github.com/camelot-dev/camelot) | 4k | Python | PDF table extraction, lattice and stream modes. |
 | [tabula-py](https://github.com/chezou/tabula-py) | 2k | Python | Python wrapper for Tabula. ⚠️ |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
@@ -199,9 +199,9 @@ Pull clean text out of messy HTML — essential for LLM/RAG pipelines.
 
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
-| [Tesseract](https://github.com/tesseract-ocr/tesseract) | 77k | C++ | Google's OCR engine — 100+ languages. |
-| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 91k | Python | Lightweight OCR — 100+ languages with LLM integration. |
-| [EasyOCR](https://github.com/JaidedAI/EasyOCR) | 30k | Python | Ready-to-use OCR — 80+ languages, PyTorch. |
+| [Tesseract](https://github.com/tesseract-ocr/tesseract) | 77k | C++ | Google's OCR engine, 100+ languages. |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 91k | Python | Lightweight OCR, 100+ languages with LLM integration. |
+| [EasyOCR](https://github.com/JaidedAI/EasyOCR) | 30k | Python | Ready-to-use OCR, 80+ languages, PyTorch. |
 | [pytesseract](https://github.com/madmaze/pytesseract) | 6k | Python | Python wrapper for Tesseract. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
@@ -211,7 +211,7 @@ Pull clean text out of messy HTML — essential for LLM/RAG pipelines.
 | Tool | Type | Description |
 |------|------|-------------|
 | [The Graph](https://github.com/graphprotocol/graph-node) | Open Source (3k) | Blockchain indexing via GraphQL subgraphs. |
-| [Subsquid](https://github.com/subsquid) | Open Source | Blockchain indexer — 50k+ blocks/sec. |
+| [Subsquid](https://github.com/subsquid) | Open Source | Blockchain indexer, 50k+ blocks/sec. |
 | [Dune Analytics](https://dune.com/) | SaaS | SQL-based blockchain analytics. |
 | [Etherscan APIs](https://etherscan.io/apis) | Freemium API | REST APIs for Ethereum data. |
 
@@ -299,7 +299,7 @@ Pay-per-request services that handle proxies, browsers, and anti-bot for you.
 
 ## Disclosure
 
-Some links in the Managed Scraping APIs, CAPTCHA Solving, Proxy Providers, and Try Free sections are affiliate/referral links. These help support the maintenance of this list. All tools are included based on merit — affiliate status does not influence placement or rankings.
+Some links in the Managed Scraping APIs, CAPTCHA Solving, Proxy Providers, and Try Free sections are affiliate/referral links. These help support the maintenance of this list. All tools are included based on merit. Affiliate status does not influence placement or rankings.
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
@@ -310,6 +310,7 @@ Some links in the Managed Scraping APIs, CAPTCHA Solving, Proxy Providers, and T
 | [awesome-ai](https://github.com/edwardtay/awesome-ai) | AI APIs, tools, frameworks, platforms, and learning resources. |
 | [awesome-robotics](https://github.com/edwardtay/awesome-robotics) | Robotics frameworks, simulators, and platforms. |
 | [awesome-web3-ai](https://github.com/edwardtay/awesome-web3-ai) | Web3 x AI tools, agent frameworks, and protocols. |
+| [awesome-OSINT](https://github.com/edwardtay/awesome-OSINT) | OSINT tools: people search, domains, social media, geolocation, breach data. |
 
 ## Contributing
 
