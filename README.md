@@ -307,6 +307,7 @@ Some links in the Managed Scraping APIs, CAPTCHA Solving, Proxy Providers, and T
 
 | List | Description |
 |------|-------------|
+| [awesome-reverse-engineering](https://github.com/edwardtay/awesome-reverse-engineering) | Reverse engineering tools with safety flags and maintenance data: binaries, Android, firmware, smart contracts, MCP servers. |
 | [awesome-ai](https://github.com/edwardtay/awesome-ai) | AI APIs, tools, frameworks, platforms, and learning resources. |
 | [awesome-robotics](https://github.com/edwardtay/awesome-robotics) | Robotics frameworks, simulators, and platforms. |
 | [awesome-web3-ai](https://github.com/edwardtay/awesome-web3-ai) | Web3 x AI tools, agent frameworks, and protocols. |
