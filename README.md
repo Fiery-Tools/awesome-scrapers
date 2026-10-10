@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.webp" alt="Awesome Web Scrapers: crawlers, browser automation, parsers, anti-detection and MCP servers" width="100%"></p>
+![Awesome Web Scrapers: crawlers, browser automation, parsers, anti-detection and MCP servers](assets/banner.webp)
 
 # Awesome Scrapers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
