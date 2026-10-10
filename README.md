@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.webp" alt="Awesome Web Scrapers: crawlers, browser automation, parsers, anti-detection and MCP servers" width="100%"></p>
+
 # Awesome Scrapers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Stars](https://img.shields.io/github/actions/workflow/status/edwardtay/awesome-scrapers/update-stars.yml?label=star%20updates)](https://github.com/edwardtay/awesome-scrapers/actions/workflows/update-stars.yml)
